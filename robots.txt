@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ewanmurphy.github.io/al-folio/sitemap.xml
+Sitemap: https://ewanmurphy.github.io/sitemap.xml
