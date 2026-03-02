@@ -1,30 +1,24 @@
-# Update the following with your information
-# Remove sections you don't need, or leave them empty
-
 cv:
-  name: Your Name
-  label: Your Title
-  email: your.email@example.com
-  location: Your City, State
-  image: "" # Optional: path to your profile image
-  summary: A brief summary of who you are
+  name: Ewan Murphy
+  label: PhD Student
+  email: ewan.murphy@quandela.com
+  location: Paris, France
+  image: "" # Optional: path to your profile image (prof_pic.png, prof_pic.jpg)
+  summary: PhD student affiliated with the COSMIQ group at INRIA and the photonic quantum computing company Quandela. Research interests in quantum circuit optimization and synthesis.
 
   # Add your social media links
-  social_networks: []
-    # - network: X
-    #   username: yourhandle
-    # - network: GitHub
-    #   username: yourusername
-    # - network: LinkedIn
-    #   username: yourprofile
+  social_networks:
+    - network: GitHub
+      username: ewanmurphy
+    - network: Google Scholar
+      username: 5Ny-E7IAAAAJ
 
   # Your address (optional)
-  address: {}
-    # street: Your Street
-    # city: Your City
-    # region: Your State
-    # postalCode: 12345
-    # countryCode: US
+  address:
+    street: B310, 48 Rue Barrault
+    city: Paris
+    postalCode: 75013
+    countryCode: FR
 
   # Resume sections - add or remove as needed
   sections: {}
