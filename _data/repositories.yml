@@ -1,14 +1,11 @@
-github_users:
-  - torvalds
-  - alshedivat
+# List GitHub usernames to display their repositories
+# Example: ["username1", "username2"]
+github_users: []
 
+# Maximum number of lines to display for each repository description
 repo_description_lines_max: 2
 
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+# Specific repositories to display
+# Format: ["owner/repo", "owner/repo"]
+# Example: ["torvalds/linux", "facebook/react"]
+github_repos: []
